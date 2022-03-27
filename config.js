@@ -13,4 +13,4 @@ const CONFIG = {
     mess: '<b><color=#F3F>/???</a><color=#F33>???</a></b>',
     messDesc: '...',
     btnAccept: 'System error/ <3',
-    messLink: 'https://github.com/zukahai/Confess-Crush'   //https://www.facebook.com/vinh.truonggia.355
+    messLink: 'https://github.com/zukahai/Confess-Crush//https://www.facebook.com/vinh.truonggia.355
